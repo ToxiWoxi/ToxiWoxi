@@ -1,20 +1,20 @@
 <!-- Heavily inspired by https://github.com/Akitakek/Akitakek -->
 <!-- <3 -->
-<!-- [![Toxi's github stats](https://github-readme-stats.vercel.app/api?username=toxiwoxi&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-![Toxi's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxiwoxi&theme=github_dark)
+<!-- [![Maddie's github stats](https://github-readme-stats.vercel.app/api?username=toxiwoxi&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![Maddie's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxiwoxi&theme=github_dark)
 
 ---
 
-### Oi, I'm Toxi! 
+### Oi, I'm Maddie! 
 I'm a self-taught full stack JavaScript developer and tech enthusiast.
 
 ---
 
-- 😊 I'm fine with any pronouns!
+- 😊 I use she/her pronouns!
 - 🖼️ I'm currently honing in my UX/UI skills.
 - ⚡ I primarily develop my web apps on [Astro](https://github.com/withastro/astro) or [React](https://github.com/facebook/react/releases) and make my backends on [Hono](https://github.com/honojs/hono) or [Bun](https://github.com/oven-sh/bun).
-- ⚡ I mostly use CloudFlare for deployment, but sometimes self-host.
-- 🐧 I develop on Ubuntu using WSL
+- ⚡ I mostly use Cloudflare for deployment, but sometimes self-host.
+- 🐧 I develop on Ubuntu using WSL.
 - 🔒 The majority of projects that I work on are closed source, but I hope to put something out publicly soon!
 - 😊 You can find more of me [here](https://toxiwoxi.info)!
 
